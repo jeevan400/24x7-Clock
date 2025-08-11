@@ -10,4 +10,4 @@ setInterval(()=>{
     document.querySelector("#hour").style.transform = `rotate(${hrotate}deg)`;
     document.querySelector("#minute").style.transform = `rotate(${mrotate}deg)`;
     document.querySelector("#second").style.transform = `rotate(${srotate}deg)`;
-}, 1000)
+}, 1000);
